@@ -1,3 +1,3 @@
 # public_key_server
 
-s
+Client and Server with public key
